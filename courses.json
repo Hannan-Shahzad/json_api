@@ -1,0 +1,83 @@
+[
+    {
+      "id": 1,
+      "name": "Web Development Bootcamp",
+      "description": "Learn HTML, CSS, and JavaScript from scratch.",
+      "duration": "8 weeks",
+      "instructor": "Alice Doe",
+      "price": "$99"
+    },
+    {
+      "id": 2,
+      "name": "Data Science Essentials",
+      "description": "Master Python and data analysis techniques.",
+      "duration": "6 weeks",
+      "instructor": "Bob Smith",
+      "price": "$119"
+    },
+    {
+      "id": 3,
+      "name": "Introduction to Machine Learning",
+      "description": "Dive into the fundamentals of machine learning with Python.",
+      "duration": "4 weeks",
+      "instructor": "Catherine Ray",
+      "price": "$129"
+    },
+    {
+      "id": 4,
+      "name": "Mobile App Development",
+      "description": "Build Android and iOS apps using Flutter and Dart.",
+      "duration": "10 weeks",
+      "instructor": "David Kim",
+      "price": "$199"
+    },
+    {
+      "id": 5,
+      "name": "Graphic Design Basics",
+      "description": "Explore graphic design tools and principles using Adobe Suite.",
+      "duration": "5 weeks",
+      "instructor": "Emma Stone",
+      "price": "$89"
+    },
+    {
+      "id": 6,
+      "name": "Cybersecurity Fundamentals",
+      "description": "Understand security principles and protect systems from threats.",
+      "duration": "8 weeks",
+      "instructor": "Michael Scott",
+      "price": "$149"
+    },
+    {
+      "id": 7,
+      "name": "Digital Marketing Mastery",
+      "description": "Learn SEO, social media marketing, and PPC strategies.",
+      "duration": "6 weeks",
+      "instructor": "Sophia Lee",
+      "price": "$99"
+    },
+    {
+      "id": 8,
+      "name": "Introduction to Cloud Computing",
+      "description": "Get started with AWS, Azure, and Google Cloud platforms.",
+      "duration": "7 weeks",
+      "instructor": "Ethan Hunt",
+      "price": "$149"
+    },
+    {
+      "id": 9,
+      "name": "Full-Stack JavaScript",
+      "description": "Master both front-end and back-end JavaScript frameworks.",
+      "duration": "12 weeks",
+      "instructor": "Laura Bennett",
+      "price": "$299"
+    },
+    {
+      "id": 10,
+      "name": "Photography for Beginners",
+      "description": "Learn the basics of photography and editing techniques.",
+      "duration": "4 weeks",
+      "instructor": "Chris Brown",
+      "price": "$79"
+    }
+  ]
+  
